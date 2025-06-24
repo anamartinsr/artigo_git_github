@@ -485,14 +485,14 @@ Se quiser, você também pode adicionar comandos de teste ou lint no hook pre-co
 # npm test
 Basta descomentar ou adicionar comandos que devem rodar antes de cada commit.
 
-Curiosidades históricas sobre GIT e GitHub 
+## Curiosidades históricas sobre GIT e GitHub 
 Você sabia que o Git foi criado em apenas 10 dias? Em 2005, Linus Torvalds, o mesmo criador do Linux, desenvolveu o Git após problemas com o BitKeeper, um sistema de versionamento que usava na época. O nome “GIT” também tem uma curiosidade por trás: Linus brincava dizendo que era uma gíria britânica para alguém “teimoso, desagradável ou cabeça-dura”, uma referência aos problemas que ele teve com os sistemas de versionamento da época.
 
 Mas o comando git também carrega outros significados, como “Global Information Tracker” e “comando pequeno, mas poderoso”. Mesmo tendo sido criado em tão pouco tempo, o Git se tornou o sistema de controle de versão mais utilizado no mundo.
 
 Já o GitHub foi criado em 2008 por quatro amigos, com a ideia de facilitar a hospedagem e o compartilhamento de repositórios Git, trazendo uma interface amigável. A plataforma foi rapidamente aceita pela comunidade. Em 2009, já contava com mais de 46 mil repositórios, e em 2011 ultrapassou o SourceForge, tornando-se o favorito dos desenvolvedores.
 
-O famoso mascote do GitHub é o Octocat:
+## O famoso mascote do GitHub é o Octocat:
 
 Um polvo com cabeça de gato
 Criado por Simon Oxley, o mesmo designer que fez o passarinho do Twitter
@@ -500,15 +500,12 @@ Virou um ícone do mundo dev e até possui versões colecionáveis.
 Em 2018, o GitHub enfrentou um dos maiores ataques DDoS da história, mas também protagonizou uma das maiores movimentações do mercado de tecnologia: foi adquirido pela Microsoft por US$ 7,5 bilhões, em um marco histórico para a plataforma.
 
 
-
-
-
-Conclusão
+## Conclusão
 Git e GitHub são ferramentas essenciais que abrem portas para uma nova forma de pensar e construir projetos. Quanto mais você usa, mais familiar se torna. Não se prenda somente a esse artigo, faça cursos, explore conteúdos e procure por documentações. Comece hoje mesmo, publique seus códigos, colabore e mostre ao mundo o seu potencial.
 
 
 
-Referências
+## Referências
 KANSARA, Darshil. GitHub vs GitLab: Qual é o melhor em 2025? Radixweb, 5 ago. 2024. Disponível em: https://radixweb.com/blog/github-vs-gitlab.
 
 GIT SCM. Git – Distributed Version Control System. Disponível em: https://git-scm.com/.
