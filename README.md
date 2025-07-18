@@ -184,7 +184,7 @@ Acesse o repositório que deseja clonar:
 - Clique no botão verde Code
 - Copie o link HTTPS, por exemplo:
 ```
-https://github.com/ribbeiroana/artigo_dio.git
+https://github.com/anamartinsr/artigo_dio.git
 ```
 Abra o terminal:
 - Digite e execute o seguinte comando com o link copiado do GitHub:
@@ -192,7 +192,7 @@ Abra o terminal:
 git clone <url_do_repositorio>
 
 # Exemplo:
-git clone <https://github.com/ribbeiroana/artigo_dio.git>
+git clone <https://github.com/anamartinsr/artigo_dio.git>
 
 ```
 
