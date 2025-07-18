@@ -1,5 +1,7 @@
 # GIT vs GitHub: O que você precisa saber sobre essas tecnologias
 
+<img src="./public/images/1.webp">
+
 Neste artigo, vamos descomplicar, de uma vez por todas, o que é GIT e GitHub, e explorar as funcionalidades mais usadas no dia a dia.
 
 Vamos imaginar que você está desenvolvendo um trabalho em equipe na faculdade, onde cada integrante do grupo ficou com uma parte do projeto. Com isso, os participantes do grupo precisam desenvolver a sua parte e depois juntar tudo para finalizar o projeto com sucesso. Você acha que seria interessante se todos pudessem trabalhar simultaneamente, salvar suas alterações em versões do documento, visualizar as modificações dos colegas e até mesmo reverter para uma versão anterior, se necessário?
@@ -9,6 +11,8 @@ Então, com o Git e o GitHub essas são algumas das inúmeras funcionalidades of
 Segundo Kansara (2024), o GitHub possui cerca de 56 milhões de usuários.
 
 E você não pode ficar de fora!
+
+<img src="./public/images/2.webp">
 
 ## Introdução aos conceitos de GIT e GitHub.
 
@@ -109,6 +113,7 @@ Para colaborar com outros usuários, armazenar seus repositórios Git na nuvem e
 Após esses passos, sua conta estará ativa e pronta para uso.
 
 Demonstração: Criando sua conta
+<img src="./public/images/3.webp">
 
 ## Personalize seu perfil
 Ter um perfil bem estruturado e atualizado é essencial para quem deseja se destacar como profissional na área de tecnologia. O GitHub funciona como um portfólio online, onde estarão disponíveis seus projetos, as tecnologias que você utiliza e informações pessoais. Além disso, você pode usar seu perfil para se conectar com outras pessoas e colaborar em projetos open source, o que demonstra proatividade e domínio sobre as tecnologias.
@@ -145,6 +150,7 @@ Exemplo básico de README.md
 ![Ana's GitHub Stats](<https://github-readme-stats.vercel.app/api?username={SEU_USER_NAME}&show_icons=true&theme=dracula>)
 ```
 Demonstração: Repositório Especial
+<img src="./public/images/4.webp">
 
 ## Criando um repositório
 Um repositório é o elemento mais básico do GitHub. É um local onde você pode armazenar seu código, seus arquivos e o histórico de revisões de cada um deles. Os repositórios podem ter vários colaboradores e podem ser públicos ou privados, conforme o objetivo do projeto (GitHub Docs, 2025).
@@ -175,6 +181,8 @@ Quando for um projeto privado, pessoal ou apenas para testes
 Por fim, clique em Create repository.
 
 Demonstração: Licenses
+<img src="./public/images/5.webp">
+
 Demonstração: Criando um repositório
 
 ## Clonando um repositório e enviando atualizações
